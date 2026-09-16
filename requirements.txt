@@ -1,0 +1,6 @@
+flask
+onnxruntime
+transformers
+optimum[onnxruntime]
+numpy
+requests
